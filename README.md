@@ -6,7 +6,7 @@ Node JS
 vercel
 render
 
-Used veet to set vanilla javaScript 
+Used vite to set vanilla javaScript 
 use Node.js for the server side
 Responsive layouts with CSS
 Handle events with JavaScript
